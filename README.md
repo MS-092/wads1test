@@ -8,6 +8,8 @@ Age: 28
 
 Understanding the part of conflict
 
+Understanding the part of merge
+
 ## Subheading
 
 wads1test/README.md
