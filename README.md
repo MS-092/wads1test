@@ -12,6 +12,8 @@ Understanding the part of merge
 
 Understanding the part of merge and conflict and other stuffs
 
+And other
+
 ## Subheading
 
 wads1test/README.md
@@ -38,4 +40,4 @@ License information
 # Adding features to the documentation
 
 1. Create a new feature in the documentation that implements the following features and features that are implemented by the documentation package
-
+2. Again as well 
