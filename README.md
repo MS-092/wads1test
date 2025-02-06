@@ -10,7 +10,7 @@ Understanding the part of conflict
 
 Understanding the part of merge
 
-Understanding the part of merge and conflict
+Understanding the part of merge and conflict and other stuffs
 
 ## Subheading
 
