@@ -31,3 +31,11 @@ Installation instructions
 Usage examples
 Contribution guidelines
 License information
+
+
+
+
+# Adding features to the documentation
+
+1. Create a new feature in the documentation that implements the following features and features that are implemented by the documentation package
+
